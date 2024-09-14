@@ -1,0 +1,120 @@
+@import url('https://fonts.cdnfonts.com/css/amazon-ember');
+*{
+    font-family: 'Amazon Ember', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width:100%;
+}
+.logo{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+.logo img
+{
+   
+width:150px;
+height:80px;
+}
+form{
+
+    display:grid;
+    justify-content: center;
+    align-items: center; 
+    border:solid 0.2px rgb(187, 186, 186);
+    border-radius:8px;
+    max-width:350px;
+    margin:0 auto;
+    padding:20px;
+}
+
+form input{
+    height:30px;
+    margin-bottom:12px;
+    border-radius:3px;
+    border:1px solid ;
+    color:grey;
+    outline:none;
+    
+
+}
+form input:hover{
+    outline:solid 2px rgb(59, 198, 241);
+
+}
+form button{
+    padding:8px;
+    border-radius:8px;
+    border:none;
+    background-color: #ffd900;
+    margin-bottom:20px;
+    cursor: pointer;
+}
+p{
+    font-size:14px;
+    margin-bottom:5px;
+    color:rgb(46, 46, 46)
+}
+.big
+{
+font-size:32px;
+margin-bottom:10px;
+}
+.agree
+{
+    font-size:12px;
+}
+a{
+    text-decoration: none;
+    margin-top:12px;
+    font-size:12px;
+    color:#0066c0;
+}
+.bold
+{
+    font-weight:bolder;
+}
+hr{
+    margin:20px 0px;
+}
+.out
+{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    margin-top:20px;
+}
+.out button{
+    padding:8px;
+    width:350px;
+    border-radius:8px;
+    border:1px solid rgb(196, 193, 193);
+    margin-bottom:20px;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+.last 
+{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    gap:20px;
+}
+.last2
+{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    font-size:10px;
+    margin-top:20px;
+}
+.hr
+{
+margin:0 auto;
+width:600px;
+border-color:rgb(255, 255, 255);
+}
