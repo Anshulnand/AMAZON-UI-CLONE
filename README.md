@@ -1,4 +1,4 @@
-# 🛒 Amazon UI Clone  
+![image](https://github.com/user-attachments/assets/9d0b742b-5ec1-4acb-99d3-54f703772870)# 🛒 Amazon UI Clone  
 
 A highly accurate **Amazon landing page clone** built using **HTML, CSS**, and a bit of **JavaScript** for smooth scrolling. It includes a **carousel** powered by [Flickity](https://flickity.metafizzy.co/) and a **sign-up form**.  
 
@@ -19,15 +19,13 @@ A highly accurate **Amazon landing page clone** built using **HTML, CSS**, and a
 ## 🚀 Installation & Setup  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/amazon-ui-clone.git
+   git clone https://github.com/Anshulnand/AMAZON-UI-CLONE.git
    ```
 2. Open `index.html` in a browser.  
 
-## 🖼️ Screenshots  
-(Add screenshots of your project here)  
 
 ## 📌 Live Demo  
-🔗 **[View it on GitHub Pages](https://your-username.github.io/amazon-ui-clone/)**  
+🔗 **[View it on GitHub Pages](https://anshulnand.github.io/AMAZON-UI-CLONE/)**  
 
 ## 🏠 Future Improvements  
 - Make it **responsive** for mobile and tablet devices  
